@@ -22,14 +22,14 @@
 
 ---
 
-### 🏆 Trophées
+### 🏆 Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=09faly&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🐍 Animation du Snake
+### 🐍
 <p align="center">
   <img src="https://github.com/09faly/09faly/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
