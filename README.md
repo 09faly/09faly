@@ -1,9 +1,9 @@
 <h1 align="center">Salut, coucou</h1>
 
+
 <p align="center">
-  <a href="https://github.com/09faly">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=520&lines=Développeur+passionné;Bienvenue+sur+mon+profil!;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;42+Student;C+/+C%2B%2B+Lover;AI+Builder;Always+Learning&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;42+Student;C+/+C%2B%2B+Lover;AI+Builder;Always+Learning&center=true&width=500&height=50">
 </p>
 
 <p align="center">
