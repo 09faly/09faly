@@ -1,40 +1,54 @@
-<h1 align="center">ZET$</h1>
-
+<h1 align="center">HI THERE!!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;42+Student;C+/+C%2B%2B+Lover;AI+Builder;Always+Learning&center=true&width=500&height=50">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;42+Student;C+/+C%2B%2B+Lover;AI+Builder;Always+Learning&center=true&width=500&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B2D73&height=160&section=header&text=幻影旅団&fontSize=50&fontColor=ffffff&animation=twinkling&desc=The%20Spider&descAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=09faly&label=Visites&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/09faly?label=Followers&style=flat" alt="followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=9370DB&center=true&vCenter=true&width=520&lines=Ryodan+Mode+On;Hunter+x+Hunter+%F0%9F%95%B7%EF%B8%8F;Welcome+to+my+den;Code+with+precision..." alt="Typing SVG" />
 </p>
 
+<!-- Bandeau défilant animé -->
+<marquee direction="right" scrollamount="10" style="color: #9370DB; font-weight: bold; font-family: monospace;">
+  🕷️ NO. 0 🕷️ NO. 1 🕷️ NO. 2 🕷️ NO. 3 🕷️ NO. 4 🕷️ NO. 5 🕷️ NO. 6 🕷️ NO. 7 🕷️ NO. 8 🕷️ NO. 9 🕷️ NO. 10 🕷️ NO. 11 🕷️ NO. 12 🕷️ NO. 13 🕷️
+</marquee>
 
----
-
-### 📊 Stats GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=09faly&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09faly&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://media.giphy.com/media/zQy3R6vX7Q9rO/giphy.gif" width="400" style="border-radius: 10px;" alt="Chrollo Lucilfer Animation"/>
 </p>
 
 ---
 
-### 🏆 Trophy
+###  Stats & Streaks
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=09faly&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=09faly&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=09faly&theme=midnight-purple&hide_border=true&background=0D1117" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09faly&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-### 🐍
+###  Trophy
 <p align="center">
-  <img src="https://github.com/09faly/09faly/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=09faly&theme=radical&no-frame=true&row=1&column=6&margin-w=15" />
 </p>
 
 ---
 
-### ✨ Mes liens
-- GitHub: https://github.com/09faly
+###  The Spider's Snake (Animation GitHub)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/09faly/09faly/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/09faly/09faly/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/09faly/09faly/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B2D73&height=120&section=footer&animation=twinkling" />
+</p>
