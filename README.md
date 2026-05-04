@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=9370DB&center=true&vCenter=true&width=520&lines=Ryodan+Mode+On;Hunter+x+Hunter+%F0%9F%95%B7%EF%B8%8F;Welcome+to+my+den;Code+with+precision..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=9370DB&center=true&vCenter=true&width=520&lines=Ryodan+Mode+On;Welcome+to+my+den;Code+with+precision..." alt="Typing SVG" />
 </p>
 
 <!-- Bandeau défilant animé -->
